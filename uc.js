@@ -8,7 +8,7 @@ stylesheet.setAttribute('rel', 'stylesheet')
 // ){
 //   stylesheet.setAttribute('href', 'https://staging.mwd-agentur.de/usercentrics.css')
 // }
-stylesheet.setAttribute('href', 'https://cdn.jsdelivr.net/gh/lukeoiler/amex_cookie_consent@latest/uc.css')
+stylesheet.setAttribute('href', 'https://cdn.jsdelivr.net/gh/lukeoiler/amex_cookie_consent@0.0.2/uc.css')
 
 
 // search for usercentrics root element
