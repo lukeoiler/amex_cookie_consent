@@ -2,7 +2,7 @@ const head = document.querySelector('head')
 const stylesheet = document.createElement('link')
 stylesheet.setAttribute('rel', 'stylesheet')
 
-stylesheet.setAttribute('href', 'https://cdn.jsdelivr.net/gh/lukeoiler/amex_cookie_consent@0.0.4/uc.css')
+stylesheet.setAttribute('href', 'https://cdn.jsdelivr.net/gh/lukeoiler/amex_cookie_consent@0.0.5/uc.css')
 
 
 // search for usercentrics root element
