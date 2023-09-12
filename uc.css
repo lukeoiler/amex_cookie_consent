@@ -217,5 +217,8 @@ button[data-testid="uc-more-button"] {
   color: gray;
 }
 
-
-
+button[data-testid="uc-save-button"] {
+  background: none;
+  font-size: 15px;
+  color: gray;
+}
