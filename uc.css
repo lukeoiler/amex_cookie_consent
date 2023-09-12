@@ -187,8 +187,20 @@ button[data-testid="uc-deny-all-button"] {
   background: none;
   font-size: 15px;
   color: gray;
+  order: 3,
 }
 
+
+button[data-testid="uc-more-button"] {
+  background: none;
+  font-size: 15px;
+  color: gray;
+  order: 2,
+}
+
+button[data-testid="uc-accept-all-button"] {
+  order: 1,
+}
 
 
 
