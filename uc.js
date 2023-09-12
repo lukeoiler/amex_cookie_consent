@@ -1,13 +1,7 @@
 const head = document.querySelector('head')
 const stylesheet = document.createElement('link')
 stylesheet.setAttribute('rel', 'stylesheet')
-// if (
-//   location.hostname === "localhost" || 
-//   location.hostname === "127.0.0.1" ||
-//   location.hostname === 'staging.mwd-agentur.de'
-// ){
-//   stylesheet.setAttribute('href', 'https://staging.mwd-agentur.de/usercentrics.css')
-// }
+
 stylesheet.setAttribute('href', 'https://cdn.jsdelivr.net/gh/lukeoiler/amex_cookie_consent@0.0.4/uc.css')
 
 
@@ -35,5 +29,3 @@ else{
   });
   observer.observe(document.querySelector("body"), { subtree: false, childList: true });
 }
-
-// head.appendChild(stylesheet)
