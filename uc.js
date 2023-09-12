@@ -8,7 +8,7 @@ stylesheet.setAttribute('rel', 'stylesheet')
 // ){
 //   stylesheet.setAttribute('href', 'https://staging.mwd-agentur.de/usercentrics.css')
 // }
-stylesheet.setAttribute('href', 'https://www.amex-kreditkarten.de/usercentrics.css')
+stylesheet.setAttribute('href', 'https://cdn.jsdelivr.net/gh/lukeoiler/amex_cookie_consent@latest/uc.css')
 
 
 // search for usercentrics root element
