@@ -183,6 +183,11 @@
 
 }
 
+button[data-testid="uc-deny-all-button"] {
+  background: none;
+  font-size: 15px;
+  color: gray;
+}
 
 
 
