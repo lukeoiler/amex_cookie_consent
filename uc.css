@@ -210,6 +210,11 @@ button[data-testid="uc-deny-all-button"] {
   color: gray;
 }
 
+button[data-testid="uc-deny-all-button"]:hover {
+  background: none;
+  font-size: 15px;
+  color: gray;
+}
 
 button[data-testid="uc-more-button"] {
   background: none;
@@ -217,7 +222,19 @@ button[data-testid="uc-more-button"] {
   color: gray;
 }
 
+button[data-testid="uc-more-button"]:hover {
+  background: none;
+  font-size: 15px;
+  color: gray;
+}
+
 button[data-testid="uc-save-button"] {
+  background: none;
+  font-size: 15px;
+  color: gray;
+}
+
+button[data-testid="uc-save-button"]:hover {
   background: none;
   font-size: 15px;
   color: gray;
